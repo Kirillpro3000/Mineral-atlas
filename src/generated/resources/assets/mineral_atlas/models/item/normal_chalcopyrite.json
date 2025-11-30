@@ -1,0 +1,6 @@
+{
+  "parent": "minecraft:item/generated",
+  "textures": {
+    "layer0": "mineral_atlas:item/chalcopyrite/normal_chalcopyrite"
+  }
+}

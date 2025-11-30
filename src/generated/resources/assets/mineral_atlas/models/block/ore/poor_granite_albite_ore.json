@@ -1,0 +1,7 @@
+{
+  "parent": "tfc:block/ore",
+  "textures": {
+    "all": "tfc:block/rock/raw/granite",
+    "overlay": "mineral_atlas:block/ore/poor_albite_ore"
+  }
+}

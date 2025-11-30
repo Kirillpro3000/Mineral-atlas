@@ -1,0 +1,7 @@
+{
+  "variants": {
+    "": {
+      "model": "mineral_atlas:block/ore/poor_granite_albite_ore"
+    }
+  }
+}

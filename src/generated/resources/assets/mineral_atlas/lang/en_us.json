@@ -1,0 +1,23 @@
+{
+  "advancements.mineral_atlas.example/child.description": "Craft an example item",
+  "advancements.mineral_atlas.example/child.title": "Example Title Diamond Block",
+  "advancements.mineral_atlas.example/root.description": "Example description",
+  "advancements.mineral_atlas.example/root.title": "Example title",
+  "mineral_atlas.tooltip.example_item.example_tooltip": "Example Tooltip",
+  "item.mineral_atlas.example_item": "Example Item",
+
+  "creativetab.mineral_atlas.mineral_atlas_gems": "Mineral atlas gems",
+  "creativetab.mineral_atlas.mineral_atlas_ore": "Mineral atlas ore",
+
+
+  "item.mineral_atlas.albite": "Albite",
+  "item.mineral_atlas.poor_chalcopyrite": "Poor chalcopyrite",
+  "item.mineral_atlas.normal_chalcopyrite": "Normal chalcopyrite",
+  "item.mineral_atlas.rich_chalcopyrite": "Rich chalcopyrite",
+
+  "block.mineral_atlas.poor_granite_albite_ore": "poor granite albite ore",
+  "block.mineral_atlas.poor_granite_chalcopyrite_ore": "Poor granite chalcopyrite ore",
+  "block.mineral_atlas.normal_granite_chalcopyrite_ore": "Normal granite chalcopyrite ore",
+  "block.mineral_atlas.rich_granite_chalcopyrite_ore": "Rich granite chalcopyrite ore"
+
+}
